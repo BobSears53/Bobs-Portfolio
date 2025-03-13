@@ -36,7 +36,7 @@ nav a {
     border-radius: 50%;
 }
 
-/* Skills Section Styling */
+/* Skills Section Styling This connects to an ID */
 #skills {
     display: flex;
     flex-direction: column;
